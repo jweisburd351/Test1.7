@@ -1,0 +1,48 @@
+.visnode {
+    -fx-background-color: #2f4f4f;
+}
+
+.graphnode
+{
+    -fx-background-color: #5790ba;
+}
+
+.productbar
+{
+    -fx-background-color: #40e7b2;
+}
+
+.handbar
+{
+    -fx-background-color: #30df82;
+}
+
+.decknode
+{
+    -fx-background-color: #c8b6d3;
+}
+
+.actionbuttons
+{
+    -fx-background-color: #e0506d;
+}
+
+.summarybar
+{
+    -fx-background-color: #81be31;
+}
+
+.draftstatus
+{
+    -fx-background-color: #0f8ccc;
+}
+
+.mapnode
+{
+    //-fx-background-color: #ffffff;
+}
+
+.pbarelement
+{
+    -fx-background-color: #000000;
+}
